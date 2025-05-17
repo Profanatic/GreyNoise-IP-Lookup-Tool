@@ -59,20 +59,25 @@ python3 greynoise_lookup.py 8.8.8.8 --no-cache
 
 Example Output
 
-============================================================
 🛰️  Full result for IP: 45.14.226.146
+
 🔖 Associated Name: Contabo GmbH
-============================================================
+
 📌 ip: 45.14.226.146
+
 📌 name: Contabo GmbH
+
 📌 classification: benign
+
 📌 metadata:
+
     📌 name: Contabo GmbH
     📌 org: CONTABO
     📌 country: DE
 
 
 🔗 Visualization: https://viz.greynoise.io/ip/45.14.226.146
+
 🔗 API Endpoint: https://api.greynoise.io/v3/community/45.14.226.146
 
 👨‍💻 Author
