@@ -18,9 +18,9 @@ A Python CLI tool to query the GreyNoise Community API for detailed intelligence
 1. Clone the repository
 
 
-git clone https://github.com/Profanatic/greynoise-ip-lookup.git
+git clone https://github.com/Profanatic/GreyNoise-IP-Lookup-Tool
 
-cd greynoise-ip-lookup
+cd GreyNoise-IP-Lookup-Tool
 
 2. Install dependencies
    
